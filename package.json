@@ -1,0 +1,25 @@
+{
+    "name": "messenger-chatbot",
+    "version": "1.0.0",
+    "description": "messenger chatbot",
+    "main": "index.js",
+    "scripts": {
+      "test": "",
+      "start": "node index.js"
+    },
+    "author": "hans",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.25.0",
+      "body-parser": "^1.19.1",
+      "express": "^4.17.2",
+      "messaging-api-messenger": "^1.1.0",
+      "morgan": "^1.10.0",
+      "nodemon": "^2.0.15",
+      "quickmongo": "^5.1.2",
+      "request": "^2.88.2",
+      "save": "^2.4.0",
+      "dotenv": "^16.0.0"
+    }
+  }
+  
