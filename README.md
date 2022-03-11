@@ -2,7 +2,7 @@
 ### USING [BOTTENDER](https://bottenderjs.github.io/messaging-apis/latest/classes/messaging_api_messenger.MessengerClient.html)
 
 ## FEATURES
-- MULTI LANGUAGES AND EASY TO ADD
+- MULTI-LANGUAGE AND EASY TO ADD
 - GETTING DATA FROM AN API USING AXIOS
 - AUTOMATED RESPONSES
 - LIVE AGENT HANDOVER WITHIN OFFICE HOURS
